@@ -4,7 +4,7 @@
 
 <p align="center"> Estoy en búsqueda de mi primera oportunidad en IT... mundo en el cual he descubierto mi pasión! </p>
 
-<p align="center"> Soy Lic. en administración de empresas y gestión empresarial con más de 11 años de experiencia en administración de personal y quiero darle un giro a mi carrera profesional. </p>
+<p align="center"> Soy Lic. en administración de empresas y gestión empresarial con más de 14 años de experiencia en administración de personal y quiero darle un giro a mi carrera profesional. </p>
 
 
 <!-- <p align="justify">
